@@ -1,0 +1,22 @@
+{
+  "name": "gothic-1-remake-trainer",
+  "displayName": "Gothic 1 Remake Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character settings",
+    "Equipment groups",
+    "Quest notes"
+  ],
+  "topics": [
+    "gothic-1-remake-trainer",
+    "gothic-1-remake-tools",
+    "gothic-1-remake-menu",
+    "gothic-1-remake-settings",
+    "gothic-1-remake-configs",
+    "gothic-1-remake-character-settings",
+    "gothic-1-remake-equipment-groups"
+  ]
+}
